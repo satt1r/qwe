@@ -9,7 +9,7 @@
     <Grid>
         <TextBlock TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Center">
             <Button Padding="20, 10">
-                Github v1
+                Github v2
             </Button>
         </TextBlock>
     </Grid>
