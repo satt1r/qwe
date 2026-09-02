@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <TextBlock TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Center">
+            <Button Padding="20, 10">
+                Github v1
+            </Button>
+        </TextBlock>
     </Grid>
 </Window>
